@@ -5,6 +5,7 @@
 - 🔭 I'm interested in Game Development Cyber Security
 
 Stuff I know (and by know I mean with various degrees of knowledge and experience):
+
 ![csharp](https://user-images.githubusercontent.com/58588029/220902725-fe0ea11c-ba02-4b6b-8d74-ce1ec2716a6c.png)
 ![mysql](https://user-images.githubusercontent.com/58588029/220902732-7f31cbdc-d4b2-4605-8900-023aa86c0d7c.png)
 ![unity-icon-1](https://user-images.githubusercontent.com/58588029/220902736-6bdceaf2-8176-4560-8605-7757e5918614.png)
@@ -17,4 +18,5 @@ Stuff I know (and by know I mean with various degrees of knowledge and experienc
 ![c-programming](https://user-images.githubusercontent.com/58588029/220902756-35419c5c-9a0e-4094-80e9-02be4ce93877.png)
 
 Stuff I want to learn:
+
 ![Rust_programming_language_black_logo svg](https://user-images.githubusercontent.com/58588029/220902729-f803da74-323b-499d-86ce-50fe1ebda120.png)
