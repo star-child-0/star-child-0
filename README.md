@@ -2,8 +2,6 @@
 
 - 🇮🇹 🇬🇧/🇺🇸
 
-- \\[T]/
-
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
   ![django-icon-0](https://user-images.githubusercontent.com/58588029/220902738-56aab93f-0488-4f56-8099-25521ad04dc6.png)
@@ -28,7 +26,7 @@
   ![Rust_programming_language_black_logo svg](https://user-images.githubusercontent.com/58588029/220902729-f803da74-323b-499d-86ce-50fe1ebda120.png)
 ![React-icon svg](https://user-images.githubusercontent.com/58588029/220906059-fa88df8b-236e-4385-a831-bdb2e8b91388.png)
 
-- Other nerd stuff
+- \\[T]/ Other nerd stuff
 
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
 ![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/58588029/220913132-5a33b3a4-81fb-4301-97d5-e25c35c24a16.png)
