@@ -1,6 +1,6 @@
 ### Hello world!
 
-- 🇮🇹 🇬🇧/🇺🇸
+- 🇮🇹 🇬🇧/🇺🇸  ![467296](https://user-images.githubusercontent.com/58588029/220912011-02db95fa-784d-4330-95dd-5658f609b294.gif)
 
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
