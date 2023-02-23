@@ -2,6 +2,8 @@
 
 - 🇮🇹 🇬🇧/🇺🇸
 
+- \[T]/
+
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
   ![django-icon-0](https://user-images.githubusercontent.com/58588029/220902738-56aab93f-0488-4f56-8099-25521ad04dc6.png)
