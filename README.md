@@ -29,7 +29,7 @@
 - Other nerd stuff
 
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
-![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/58588029/220912729-ddb7243c-7fd7-4e1c-b59a-c7f72d1b52ff.png)
+![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/58588029/220913132-5a33b3a4-81fb-4301-97d5-e25c35c24a16.png)
 
 - ☕ Addicted to coffee
 
