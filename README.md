@@ -2,7 +2,7 @@
 
 - 🇮🇹 🇬🇧/🇺🇸
 
-- \[T]/
+- \\[T]/
 
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
