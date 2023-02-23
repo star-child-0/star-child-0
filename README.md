@@ -26,6 +26,11 @@
   ![Rust_programming_language_black_logo svg](https://user-images.githubusercontent.com/58588029/220902729-f803da74-323b-499d-86ce-50fe1ebda120.png)
 ![React-icon svg](https://user-images.githubusercontent.com/58588029/220906059-fa88df8b-236e-4385-a831-bdb2e8b91388.png)
 
+- Other nerd stuff
+
+  ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
+![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/58588029/220912729-ddb7243c-7fd7-4e1c-b59a-c7f72d1b52ff.png)
+
 - ☕ Addicted to coffee
 
 - (ノ ゜Д゜)ノ ︵ ┻━┻ I don't have a social life
