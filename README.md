@@ -23,3 +23,6 @@
 
 ![Rust_programming_language_black_logo svg](https://user-images.githubusercontent.com/58588029/220902729-f803da74-323b-499d-86ce-50fe1ebda120.png)
 ![React-icon svg](https://user-images.githubusercontent.com/58588029/220906059-fa88df8b-236e-4385-a831-bdb2e8b91388.png)
+
+I don't have a social life
+(ノ ゜Д゜)ノ ︵ ┻━┻
