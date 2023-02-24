@@ -18,8 +18,9 @@
 
 - 🔭 I'm interested in Game Development
 
-  ![csharp](https://user-images.githubusercontent.com/58588029/220902725-fe0ea11c-ba02-4b6b-8d74-ce1ec2716a6c.png)
-![unity-icon-1](https://user-images.githubusercontent.com/58588029/220902736-6bdceaf2-8176-4560-8605-7757e5918614.png)
+  ![unity-icon-1](https://user-images.githubusercontent.com/58588029/220902736-6bdceaf2-8176-4560-8605-7757e5918614.png)
+![csharp](https://user-images.githubusercontent.com/58588029/220902725-fe0ea11c-ba02-4b6b-8d74-ce1ec2716a6c.png)
+
 
 - 📖 Stuff I want to learn:
 
