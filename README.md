@@ -14,7 +14,7 @@
 
 - 🌱 Learning C in 42Firenze Luiss
 
-  ![anvannin's 42 stats](https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off)]
+  [![anvannin's 42 stats](https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
   <!-- ![c-programming](https://user-images.githubusercontent.com/58588029/220902756-35419c5c-9a0e-4094-80e9-02be4ce93877.png) -->
 
 - 🔭 I'm interested in Game Development
