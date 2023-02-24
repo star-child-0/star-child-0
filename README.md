@@ -1,6 +1,6 @@
 ### Hello world!
 
-- 🇮🇹 🇬🇧/🇺🇸
+- 🇮🇹/🇬🇧/🇺🇸
 
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
@@ -12,7 +12,7 @@
 ![jquery-8-1175153](https://user-images.githubusercontent.com/58588029/220902746-1c9fc51a-4e88-4ae0-a92c-a5c54f300894.png)
 ![mysql](https://user-images.githubusercontent.com/58588029/220902732-7f31cbdc-d4b2-4605-8900-023aa86c0d7c.png)
 
-- 🌱 Learning C in 42Firenze
+- 🌱 Learning C in 42Firenze Luiss
 
   ![c-programming](https://user-images.githubusercontent.com/58588029/220902756-35419c5c-9a0e-4094-80e9-02be4ce93877.png)
 
