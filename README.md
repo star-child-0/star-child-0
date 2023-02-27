@@ -12,11 +12,15 @@
 
 - 🔭 I'm interested in Game Development
 
-  [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)  
 
 - 📖 Stuff I want to learn:
 
   [![My Skills](https://skillicons.dev/icons?i=rust,react)](https://skillicons.dev)
+
+- 🧰 Miscellaneous stuff
+
+  [![My Skills](https://skillicons.dev/icons?i=linux,git,github,stackoverflow,vscode)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
 
