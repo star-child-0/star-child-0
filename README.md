@@ -19,6 +19,7 @@
   [![My Skills](https://skillicons.dev/icons?i=rust,react)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
+
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
   [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
