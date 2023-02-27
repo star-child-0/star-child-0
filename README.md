@@ -18,7 +18,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=rust,react)](https://skillicons.dev)
 
-- 🧰 Miscellaneous stuff
+- 🧰 Miscellaneous
 
   [![My Skills](https://skillicons.dev/icons?i=linux,git,github,stackoverflow,vscode)](https://skillicons.dev)
 
