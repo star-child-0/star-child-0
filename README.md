@@ -20,7 +20,7 @@
 
 - 🧰 Miscellaneous
 
-  [![My Skills](https://skillicons.dev/icons?i=linux,git,github,stackoverflow,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,stackoverflow,md,linux,vscode)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
 
