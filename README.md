@@ -22,9 +22,14 @@
 
   [![My Skills](https://skillicons.dev/icons?i=rust,react,figma)](https://skillicons.dev)
 
+- Social links
+  
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/star-child-0)
+  [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17034343/anvannin)
+
 - \\[T]/ Other nerd stuff
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,stackoverflow,md,linux,vscode,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,aws)](https://skillicons.dev)
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
 
 - ☕ Addicted to coffee
