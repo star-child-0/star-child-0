@@ -22,7 +22,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=rust,react,figma)](https://skillicons.dev)
 
-- Social links
+- 📱 Social links
   
   [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/star-child-0)
   [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17034343/anvannin)
