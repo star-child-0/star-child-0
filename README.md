@@ -4,9 +4,13 @@
 
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
-  [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql,sqlite,postman)](https://skillicons.dev)
 
 - 🌱 Learning C in 42Firenze Luiss
+
+  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  
+- 4️2️ My Cursus stats
 
   [![anvannin's 42 stats](https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -16,7 +20,7 @@
 
 - 📖 Stuff I want to learn:
 
-  [![My Skills](https://skillicons.dev/icons?i=rust,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,react,figma)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
 
