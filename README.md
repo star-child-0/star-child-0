@@ -22,7 +22,7 @@
 
 - 📖 Stuff I want to learn:
 
-  [![My Skills](https://skillicons.dev/icons?i=rust,react,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,react,figma,sass)](https://skillicons.dev)
 
 - 📱 Social links
   
