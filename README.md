@@ -28,6 +28,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/star-child-0)
   [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17034343/anvannin)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-vannini-9b712b1b8/)  
 
 - \\[T]/ Other nerd stuff
 
