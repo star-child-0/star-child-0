@@ -28,7 +28,8 @@
   
 - 4️2️ My Cursus stats
 
-  [![anvannin's 42 stats](https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  [![anvannin's 42 stats](https://badge42.vercel.app/api/v2/cleh36s9k00060fmefi6qv520/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
+  <!-- [![anvannin's 42 stats](https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
 - 🔭 I'm interested in Game Development
 
