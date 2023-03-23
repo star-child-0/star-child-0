@@ -1,19 +1,17 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F702&center=true&width=435&lines=print(%22Hello+World!%22);console.log(%22Hello+World!%22);printf(%22Hello+World!%5Cn%22);%3Ch1%3EHello+World!%3C%2Fh1%3E)](https://git.io/typing-svg)</div>
 
-<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=star-child-0&label=Profile%20views&color=blueviolet&style=flat" alt="star-child-0" />
   
+  <!--
   https://github.com/tandpfun/tandpfun/blob/main/README.md
   ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
   ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
   ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
   [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
   
-  https://dev.discordprofiles.me/
-  
-  
-</p> -->
+  https://dev.discordprofiles.me/  -->
+</p> 
 
 - 🇮🇹/🇬🇧/🇺🇸
 
@@ -57,4 +55,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=star-child-0&theme=github_dark&show_icons=true" height="185" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=github_dark&langs_count=10" height="185" />
   </p>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+[![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
