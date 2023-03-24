@@ -52,7 +52,8 @@
 - (ノ ゜Д゜)ノ ︵ ┻━┻ I don't have a social life
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=star-child-0&theme=github_dark&show_icons=true" height="185" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=github_dark&langs_count=10" height="185" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=star-child-0&show_icons=true&theme=radical" height="185" />
+    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=star-child-0&theme=radical" height="185" />
+    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=radical&langs_count=10" height="185" />
   </p>
 [![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
