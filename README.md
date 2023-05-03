@@ -4,15 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=star-child-0&label=Profile%20views&color=blueviolet&style=flat" alt="star-child-0" />
-  
-  <!--
-  https://github.com/tandpfun/tandpfun/blob/main/README.md
-  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-  ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-  
-  https://dev.discordprofiles.me/  -->
 </p> 
 
 - 🇮🇹/🇬🇧/🇺🇸
@@ -21,9 +12,9 @@
 
   [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql,sqlite,postman)](https://skillicons.dev)
 
-- 🌱 Learning C in 42Firenze Luiss
+- 🌱 Currently learning this languages/technologies/frameworks
 
-  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,flutter,dart)](https://skillicons.dev)
   
 - 4️2️ My Cursus stats
 
@@ -36,7 +27,7 @@
 
 - 📖 Stuff I want to learn:
 
-  [![My Skills](https://skillicons.dev/icons?i=rust,react,figma,sass,flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,react,figma,sass)](https://skillicons.dev)
 
 - 📱 Social links
   
