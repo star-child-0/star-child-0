@@ -10,7 +10,7 @@
 
 - 💼 Currently working as Full Stack junior developer with Django and Django REST
 
-  [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql,sqlite,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
 
 - 🌱 Currently learning this languages/technologies/frameworks
 
