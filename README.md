@@ -28,10 +28,6 @@
 
   [![My Skills](https://skillicons.dev/icons?i=unity,cs,unreal,cpp)](https://skillicons.dev)
 
-- 📖 Stuff I want to learn:
-
-  [![My Skills](https://skillicons.dev/icons?i=rust,react,figma,sass)](https://skillicons.dev)
-
 <!--
 - 📱 Social links
   
@@ -42,11 +38,7 @@
 
 - \\[T]/ Other nerd stuff
 
-  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode)](https://skillicons.dev)
-
-- 🗃️ Things I used/studied in the past
-
-  [![My Skills](https://skillicons.dev/icons?i=vim,sqlite,visualstudio,aws,postman,unity,cs,nextjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,unity,cs,nextjs,nodejs)](https://skillicons.dev)
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
 
 - ☕ Addicted to coffee
