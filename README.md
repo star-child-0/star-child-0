@@ -20,9 +20,9 @@
 
   [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
 
-- 🌱 Languages/technologies/frameworks I'm studying and learning in my free time
+- 🌱 Languages/technologies/frameworks I'm studying and learning
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart,firebase)](https://skillicons.dev)
 
 - 🔭 I'm interested in Game Development
 
