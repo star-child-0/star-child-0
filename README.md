@@ -22,7 +22,7 @@
 
 - 🌱 Languages/technologies/frameworks I'm studying and learning
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart,firebase,qt)](https://skillicons.dev)
 
 - 🔭 I'm interested in Game Development
 
