@@ -9,8 +9,10 @@
   <img src="https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off">
 </p>
 
-<img src="/github-metrics.svg">
-
+<p align="center">
+  <img src="/github-metrics.svg">
+</p>
+  
 ## About me 🧍
 - (non coding)Languages:
   - 🇮🇹 Mother tongue
@@ -23,15 +25,15 @@
 
 - 🌱 Languages/technologies/frameworks I'm studying and learning
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart,firebase,qt)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart,firebase,qt,cs)](https://skillicons.dev)
 
 - 🔭 I'm interested in Game Development
 
-  [![My Skills](https://skillicons.dev/icons?i=unity,cs,unreal,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unity,unrealp)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
 
-  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,unity,cs,nextjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,unity,nextjs,nodejs)](https://skillicons.dev)
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
 
 - ☕ Addicted to coffee
