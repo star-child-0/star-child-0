@@ -29,11 +29,11 @@
 
 - 🔭 I'm interested in Game Development
 
-  [![My Skills](https://skillicons.dev/icons?i=unity,unrealp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
 
-  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,unity,nextjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,nextjs,nodejs)](https://skillicons.dev)
   ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
 
 - ☕ Addicted to coffee
@@ -46,6 +46,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=star-child-0&show_icons=true&theme=radical" height="185" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=radical&langs_count=10" height="185" />
   </p>
-  
-[![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 -->
+
+<!-- [![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib) -->
