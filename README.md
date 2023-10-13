@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=star-child-0&label=Profile%20views&color=blueviolet&style=flat" alt="star-child-0" />
-</p> 
+</p>
 
 <p align="center">
   <!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleh36s9k00060fmefi6qv520/stats?cursusId=21&coalitionId=283" alt="anvannin's 42 stats" /></a> -->
@@ -12,20 +12,30 @@
 <p align="center">
   <img src="/github-metrics.svg">
 </p>
-  
+
 ## About me 🧍
 - (non coding)Languages:
   - 🇮🇹 Mother tongue
   - 🇬🇧 B1 (aka First)
   - 🇩🇪 Studied in middle school, currently self-teaching
 
-- 💼 Working as Full Stack Developer with Django
+- 💼 My working stack:
+  - Full Stack Web Development
 
-  [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
 
-- 🌱 Languages/technologies/frameworks I'm studying and learning
+  - Mobile Development
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,flutter,dart,firebase,qt,cs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,cs,xamarin)](https://skillicons.dev)
+    <img src="./.assets/xamarin-logo.png" style="width: 5%; margin-left: -40px">
+
+  - Company Automation
+
+    [![My Skills](https://skillicons.dev/icons?i=qt,cpp)](https://skillicons.dev)
+
+- 🌱 Languages I'm currently studying
+
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 - 🔭 I'm interested in Game Development
 
@@ -34,7 +44,7 @@
 - \\[T]/ Other nerd stuff
 
   [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,nextjs,nodejs)](https://skillicons.dev)
-  ![cisco-logo-transparent](https://user-images.githubusercontent.com/58588029/220912734-1125e687-7c0f-4a01-a137-272f294dc778.png)
+  <img alt="cisco-logo" src="./.assets/cisco-logo.png" style="width: 5%">
 
 - ☕ Addicted to coffee
 
