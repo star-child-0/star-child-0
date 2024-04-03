@@ -4,22 +4,24 @@
   <img src="https://komarev.com/ghpvc/?username=star-child-0&label=Profile%20views&color=blueviolet&style=flat" alt="star-child-0" />
 </p>
 
+<!--
 <p align="center">
-  <!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleh36s9k00060fmefi6qv520/stats?cursusId=21&coalitionId=283" alt="anvannin's 42 stats" /></a> -->
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleh36s9k00060fmefi6qv520/stats?cursusId=21&coalitionId=283" alt="anvannin's 42 stats" /></a>
   <img src="https://badge.mediaplus.ma/greenbinary/anvannin?1337Badge=off&UM6P=off">
 </p>
+-->
 
 <p align="center">
   <img src="/github-metrics.svg">
 </p>
 
 ## About me 🧍
-- (non coding)Languages:
+- (non coding)Languages
   - 🇮🇹 Mother tongue
   - 🇬🇧 B1 (aka First)
   - 🇩🇪 Studied in middle school, currently self-teaching
 
-- 💼 My working stack:
+- 💼 Current job experience
   - Full Stack Web Development
 
     [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
@@ -27,11 +29,11 @@
   - Mobile Development
 
     [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,cs,xamarin)](https://skillicons.dev)
-    <img src="./.assets/xamarin-logo.png" style="width: 5%; margin-left: -40px">
+    <img src="./.assets/xamarin-logo.png" style="width: 5%;">
 
   - Company Automation
 
-    [![My Skills](https://skillicons.dev/icons?i=qt,cpp)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=qt,raspberrypi,cpp,c)](https://skillicons.dev)
 
 - 🌱 Languages I'm currently studying
 
