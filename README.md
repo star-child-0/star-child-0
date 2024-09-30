@@ -12,19 +12,21 @@
 -->
 
 <p align="center">
-  <img src="/github-metrics.svg">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=star-child-0&theme=radical" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=star-child-0&show_icons=true&theme=radical" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=radical&langs_count=10" height="185" />
 </p>
 
 ## About me 🧍
 - (non coding)Languages
   - 🇮🇹 Mother tongue
   - 🇬🇧 B1 (aka First)
-  - 🇩🇪 Studied in middle school, currently self-teaching
+  - 🇩🇪 Studied in middle school, eager to learn
 
 - 💼 Current job experience
   - Full Stack Web Development
 
-    [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,jquery,bootstrap,mysql,nginx)](https://skillicons.dev)
 
   - Mobile Development
 
@@ -37,27 +39,30 @@
 
 - 🌱 Languages I'm currently studying
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,py,html,css,js,bootstrap,postgres,nginx,docker)](https://skillicons.dev)
 
 - 🔭 I'm interested in Game Development
 
-  [![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unreal,godot,gamemakerstudio)](https://skillicons.dev)
 
 - \\[T]/ Other nerd stuff
 
-  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,vscode,vim,sqlite,visualstudio,aws,postman,nextjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,arch,vscode,vim,sqlite,visualstudio,postman,nextjs,nodejs)](https://skillicons.dev)
   <img alt="cisco-logo" src="./.assets/cisco-logo.png" style="width: 5%">
 
-- ☕ Addicted to coffee
+- ☕ (No longer) Addicted to coffee
 
-- (ノ ゜Д゜)ノ ︵ ┻━┻ I don't have a social life
+- (..◜ᴗ◝..) Social life haver
+
+- Avid tabletop and ttrpg player
+
+- Random fun fact: i can count to 1024 on my fingers
+
+- I use arch btw
 
 <!--
-  <p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=star-child-0&theme=radical" height="185" />
-    <img src="https://github-readme-stats.vercel.app/api?username=star-child-0&show_icons=true&theme=radical" height="185" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=radical&langs_count=10" height="185" />
-  </p>
+<p align="center">
+  <img src="/github-metrics.svg">
+</p>
+[![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 -->
-
-<!-- [![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib) -->
