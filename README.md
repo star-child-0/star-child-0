@@ -47,7 +47,7 @@
 
 - \\[T]/ Other nerd stuff
 
-  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,arch,vscode,vim,sqlite,visualstudio,postman,nextjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,md,linux,arch,vscode,visualstudio,androidstudio,vim,sqlite,postman,nextjs,nodejs)](https://skillicons.dev)
   <img alt="cisco-logo" src="./.assets/cisco-logo.png" style="width: 5%">
 
 - ☕ (No longer) Addicted to coffee
